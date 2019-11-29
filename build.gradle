@@ -17,6 +17,7 @@ apply plugin: 'idea'
 group 'net.andreinc'
 version '0.0.11'
 
+
 repositories {
     mavenCentral()
     jcenter()
